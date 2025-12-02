@@ -1,3 +1,3 @@
-# CÍmsor
+# Címsor
 
-I added a H1 header line
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
